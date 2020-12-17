@@ -2,10 +2,10 @@
 
 Use this script to generate a random Joke each time it runs.
 
-## Table of contents
+## Table of Contents
 
 - [Mixed Messages - Random Jokes](#mixed-messages---random-jokes)
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
   - [Files](#files)
